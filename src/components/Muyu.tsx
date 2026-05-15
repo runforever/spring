@@ -116,7 +116,7 @@ export default function Muyu() {
       >
         {/* Mallet strike animation */}
         <img
-          src="/muyu.png"
+          src="/muyu.png?v=2"
           alt="木鱼"
           draggable={false}
           style={{
